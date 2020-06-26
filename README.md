@@ -1,2 +1,2 @@
 # lauchbase
-Desafios do Bootcamp LauchBase
+Desafios do Bootcamp LaunchBase
